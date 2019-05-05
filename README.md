@@ -1,4 +1,4 @@
-# starting the project
+### Starting the project
 
 install packages `npm install --save`
 
